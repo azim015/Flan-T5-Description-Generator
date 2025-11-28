@@ -7,6 +7,7 @@ A sample structured textual data is as follows:
 
 
 
+
 checklist = {
     "Location/Setting": {
         "Urban areas with buildings": "Visible storefronts and advertisements, including 'GIFTS' shop and other storefront signs.",
