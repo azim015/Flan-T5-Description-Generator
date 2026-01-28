@@ -5,7 +5,7 @@ Since generating a comprehensive description from an image is a different task, 
 
 A sample structured textual data is as follows:
 
-
+.
 checklist = {
     "Location/Setting": {
         "Urban areas with buildings": "Visible storefronts and advertisements, including 'GIFTS' shop and other storefront signs.",
